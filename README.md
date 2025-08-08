@@ -21,7 +21,7 @@ Frontend: React (with TypeScript), Vite Backend & Database: Supabase (PostgreSQL
 
 Prerequisites Node.js (v18 or later) npm or yarn A free Supabase account Installation & Setup Clone the repository:
 
-git clone https://github.com/SaM-005X/mandi-mitra-ai.git cd mandi-mitra-ai
+git clone https://github.com/MANDI-MITRA-AI/MANDI-MITRA-AI-PROJECT.git cd MANDI-MITRA-AI-PROJECT
 
 npm install
 
@@ -29,7 +29,7 @@ Create a Supabase project. In the Supabase dashboard, go to Project Settings > A
 
 In the Supabase dashboard, go to the SQL Editor. Copy the contents of the SQL files from the /supabase/migrations directory in this project. Execute the SQL queries to create the necessary tables (users, transactions) and storage policies. Run the development server:
 
-npm run dev The application should now be running on http://localhost:5173.
+npm run dev The application should now be running on https://bolt-diy-6-1754683931682.netlify.app/.
 
 Sign in method:-
 
